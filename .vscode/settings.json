@@ -1,0 +1,59 @@
+// {
+//     "git.confirmSync": false,
+//     "workbench.colorTheme": "Tokyo Night",
+//     "bracketPairColorizer.depreciation-notice": false,
+//     "explorer.confirmDelete": false,
+//     "tabnine.experimentalAutoImports": true,
+//     "editor.acceptSuggestionOnEnter": "off",
+//     "workbench.iconTheme": "material-icon-theme",
+//     "[dart]": {
+//       "editor.formatOnSave": true,
+//       "editor.formatOnType": true,
+//       // "editor.rulers": [
+//       //     80
+//       // ],
+//       "editor.selectionHighlight": false,
+//       "editor.suggest.snippetsPreventQuickSuggestions": false,
+//       "editor.suggestSelection": "first",
+//       "editor.tabCompletion": "onlySnippets",
+//       "editor.wordBasedSuggestions": false,
+//       "editor.defaultFormatter": "Dart-Code.dart-code"
+//     },
+//     "editor.minimap.enabled": false,
+//     "dart.openDevTools": "flutter",
+//     "explorer.confirmDragAndDrop": false,
+//     "[javascript]": {
+//       "editor.defaultFormatter": "esbenp.prettier-vscode"
+//     },
+//     "redhat.telemetry.enabled": true,
+//     "git.autofetch": true,
+//     "terminal.external.osxExec": "Terminal_Intel.app",
+//     "editor.defaultFormatter": "esbenp.prettier-vscode",
+//     "npm.keybindingsChangedWarningShown": true,
+//     "dart.showInspectorNotificationsForWidgetErrors": false
+//   }
+// {
+//     "workbench.colorTheme": "Default Dark+"
+// }
+{
+  "editor.fontSize": 12,
+  "files.autoSave": "off",
+  "editor.tabSize": 1,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 12,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand"
+}
